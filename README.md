@@ -21,8 +21,8 @@
 ---
 
 ## 🌟 **About Me**
-- 🔭 **Internship Experience:**  
-  Former intern at **Aureole Information Technology** 👨‍💻
+- 🔭 **Experience:**  
+  Currently learning at **Ho Chi Minh University of Technology** 👨‍💻
 
 - 🌱 **Currently Exploring:**  
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/></a>
